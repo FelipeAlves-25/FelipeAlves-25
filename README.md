@@ -1,22 +1,22 @@
-# Hello, everyone
+# Olá, pessoal
 
-Welcome all of you to my profile of repositories created by me. It's very nice to see that have people who like my projects and/or use them, it's great help for me who creates them.
+Bem-vindos ao meu perfil pessoal, aqui eu tento criar exemplos de landing page, ideias de programas e etc. Estou apenas iniciando, mas espero me especializar cada dia mais na programação.
 
-## My personal data:
+## Meus dados Pessoais:
 
-- Name: Felipe Alves dos Santos
-- Birth Date: 25/02/2007
-- Contact e-mail: fealves373@gmail.com
-- Country: Brazil
+- Nome: Felipe Alves dos Santos
+- Data de nascimento: 25/02/2007
+- e-mail para contato/parceria: felipefas209@gmail.com
+- País: Brasil
 
-## About of developer:
+## Sobre o desenvolvedor:
 
-- I know: HTML, CSS, Javascript
-- Learning: Python, ReactJS, Expo, Java
+- Eu conheço: HTML, CSS, Javascript
+- Estou aprendendo: Python, ReactJS, Expo, Java
 <details>
-  <summary>List of projects/repositorys created for me</summary>
+  <summary>Listas de projetos/repositórios criados por mim</summary>
   
-  ## Created:
+  ## Criado (em desenvolvimento):
   
   - <a href = "https://github.com/FelipeAlves-25/Morgana">Morgana</a>
   - <a href = "https://github.com/FelipeAlves-25/ChatBot-da-zueira">ChatBot da zueira</a>
