@@ -14,7 +14,7 @@ Bem-vindos ao meu perfil pessoal, aqui eu tento criar exemplos de landing page, 
 - Eu conheço: HTML, CSS, Javascript
 - Estou aprendendo: Python, ReactJS, Expo, Java
 <details>
-  <summary>Listas de projetos/repositórios criados por mim</summary>
+  <summary><b>Listas de projetos/repositórios criados por mim</b></summary>
   
   ## Criado (em desenvolvimento):
   
