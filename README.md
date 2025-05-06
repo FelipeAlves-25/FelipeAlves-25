@@ -16,7 +16,6 @@ Bem-vindos ao meu perfil pessoal, é aqui onde deixo meus exemplos de landing pa
 
 ## <b>Listas de projetos/repositórios criados por mim</b>
 
-### Criado (em desenvolvimento):
+### Em desenvolvimento:
 
-- <a href = "https://github.com/FelipeAlves-25/Morgana">Morgana</a>
-- <a  href = "https://github.com/FelipeAlves-25/Sistema-de-login">Sistema de Login</a>
+- <a href = "https://github.com/FelipeAlves-25/analise-dengue">Análise sobre dengue e possíveis soluções</a>
