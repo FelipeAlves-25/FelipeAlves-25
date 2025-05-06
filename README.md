@@ -11,8 +11,8 @@ Bem-vindos ao meu perfil pessoal, é aqui onde deixo meus exemplos de landing pa
 
 ## Sobre o desenvolvedor:
 
-- Conheço: HTML, CSS, Javascript
-- Estou aprendendo: Python, ReactJS, Expo, Java
+- Conheço: HTML, CSS, Javascript.
+- Estou aprendendo: Python, em especial bibliotecas de tratamento de dados.
 
 ## <b>Listas de projetos/repositórios criados por mim</b>
 
