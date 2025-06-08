@@ -19,7 +19,7 @@ Me chamo Felipe Alves, um entusiasta na programação em Python e ferramentas de
 
 ## 📌 Projetos
 
-### 📈 [Gerador de gráficos](#)
+### 📈 Gerador de gráficos
 > Status: Em desenvolvimento
 - Projeto para a criação de gráficos precisos e sem complicação;
 - Uso das bibliotecas Matplotlib e Seaborn;
