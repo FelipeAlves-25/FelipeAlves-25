@@ -8,7 +8,7 @@
 </p>
 
 ## 👨‍💻 Sobre mim
-Me chamo Felipe Alves, um entusiasta na programação em Python e ferramentas de **análise e ciência de dados**. Consigo transformar dados em **_insights_ valiosos**
+Me chamo Felipe Alves, um entusiasta na programação em Python e ferramentas de **análise e ciência de dados**. Consigo transformar dados em **_insights_ valiosos**.
 
 ## 🛠️ Tecnologias & Ferramentas
 
