@@ -27,5 +27,5 @@ Me chamo Felipe Alves, um entusiasta na programação em Python e ferramentas de
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-a94647241)
 [![Email](https://img.shields.io/badge/E--mail-felipefas209%40outlook.com-red?style=flat&logo=gmail&logoColor=white)](mailto:felipefas209@outlook.com)
