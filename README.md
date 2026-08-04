@@ -20,9 +20,9 @@ Me chamo Felipe Alves, um entusiasta na programação em Python e ferramentas de
 ## 📌 Projetos
 
 ### 📈 My Wallet
-> Status: Em desenvolvimento
+> Status: Não iniciado
 - Uma carteira digital que ajuda no gerenciamento das finanças;
-- [Clique aqui e veja os detalhes.](https://github.com/FelipeAlves-25/gerador-de-graficos)
+- [Clique aqui e veja os detalhes.](https://github.com/FelipeAlves-25/my-wallet)
 
 ## Contato
 
